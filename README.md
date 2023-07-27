@@ -1,7 +1,10 @@
 # Novozymes Enzyme Stability Prediction
 
-[![GitHub stars](https://img.shields.io/github/stars/elcaiseri/Novozymes-Enzyme-Stability-Prediction)](https://github.com/elcaiseri/Novozymes-Enzyme-Stability-Prediction/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/elcaiseri/Novozymes-Enzyme-Stability-Prediction)](https://github.com/elcaiseri/Novozymes-Enzyme-Stability-Prediction/watchers)
+![Novozymes](https://img.shields.io/badge/Novozymes-blue.svg)
+![Kaggle](https://img.shields.io/badge/Kaggle-blue.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-blue.svg)
+
 
 This repository contains the 21st place solution for the Novozymes Enzyme Stability Prediction competition. The goal of the competition is to help identify thermostable mutations in enzymes.
 
